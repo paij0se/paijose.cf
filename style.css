@@ -257,6 +257,11 @@ nav {
     center no-repeat;
 }
 
+.rust {
+  background: url("https://cdn.discordapp.com/attachments/851972919134650393/855214995511050280/144px-Rust_programming_language_black_logo.png")
+    center no-repeat;
+}
+
 .activites-grid-item i {
   font-size: 4rem;
   color: #eb648c;
