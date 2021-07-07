@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/paijose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paijose.tk
+  * I am paijose (https://keybase.io/paijose) on keybase.
+  * I have a public key ASD9ezdteZ2NH-00ug3IqFPPcD283Ez3EcTrv_vH-FjnRAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120edf612ddf8971b729854c04a7fe9230dbdd0f69ea82d7133ec94a02502a16c530a",
+      "host": "keybase.io",
+      "kid": "0120fd7b376d799d8d1fed34ba0dc8a853cf703dbcdc4cf711c4ebbffbc7f858e7440a",
+      "uid": "77b7cdcea31cb61460cbf557cb799d19",
+      "username": "paijose"
+    },
+    "merkle_root": {
+      "ctime": 1625698376,
+      "hash": "a70366cd324d00751fdbeedb3ae75cbf69643d48d0f60f6656ed4f846c20d28af5752ebdc91acbe94c830e302890dfcf014d897543accdf7a5b30a116b9b6cfc",
+      "hash_meta": "b25fe085616ba170da7fcc2febec8ab36c9eda01d96c8876ea5398564d4f3606",
+      "seqno": 20333495
+    },
+    "service": {
+      "entropy": "8COjaTRFXoo/IK1metHRshWW",
+      "hostname": "paijose.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1625698393,
+  "expire_in": 504576000,
+  "prev": "fdbb1b4b65b6ae0bf90ac7ea90b2df7d0611a70713610af5ae81bd81cc0564c1",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/Xs3bXmdjR/tNLoNyKhTz3A9vNxM9xHE67/7x/hY50QKp3BheWxvYWTESpcCDMQg/bsbS2W2rgv5CsfqkLLffQYRpwcTYQr1roG9gcwFZMHEIBCorLm/oeAeR2j9FuucpfShWSBQOqUS+1IIuHz33S/uAgHCo3NpZ8RAkwIPw5xYlVkmytoSOmrOqcBvWimKW60wddh6GUrGMEWVtqQ/RARz1KbxBEFvAkG8TroTPqV0LrBocyKRdYtAAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKmGJjVDe3piJPmuY3iyeQXraoKvTi1EXXyudhlmamIHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paijose
+
+==================================================================
