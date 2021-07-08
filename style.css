@@ -14,6 +14,7 @@ html {
   font-family: "Nunito", sans-serif;
   font-size: 10px;
   box-sizing: border-box;
+  background: #23272a;
 }
 
 a {
@@ -123,7 +124,8 @@ nav {
       rgba(49, 24, 131, 0.9) 0%,
       rgba(72, 56, 149, 0.8) 100%
     ),
-    url("images/header-bg.jpg") center no-repeat;
+    url("https://camo.githubusercontent.com/82a5f91b3c5f8ff699f9a79ef46a81b3c7800d7e8e63651b1a75810f24106b0e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739353534343133343431363732383036352e676966")
+      center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -198,10 +200,12 @@ nav {
   font-family: "Aldrich", sans-serif;
   font-size: 2rem;
   margin: 0.5rem 0 1rem;
+  color: white;
 }
 
 .title-heading p {
   text-transform: lowercase;
+  color: white;
 }
 
 .activites-grid {
@@ -258,7 +262,11 @@ nav {
 }
 
 .rust {
-  background: url("https://cdn.discordapp.com/attachments/851972919134650393/855214995511050280/144px-Rust_programming_language_black_logo.png")
+  background: url("https://cdn.discordapp.com/attachments/854365333312765962/862496999542882344/QCjWE2LUXp210GHo19aK1zJJY0gSyMbQqsTaZQV5XHAoxVBepWNCNkY3hBfppadcExXXzuaYkntR6Z2zfDDW9geKoJ4ycYtHszKy.png")
+    center no-repeat;
+}
+.go {
+  background: url("https://camo.githubusercontent.com/82a5f91b3c5f8ff699f9a79ef46a81b3c7800d7e8e63651b1a75810f24106b0e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739353534343133343431363732383036352e676966")
     center no-repeat;
 }
 
@@ -338,7 +346,7 @@ nav {
 /*Adventures*/
 footer {
   padding: 2.5rem 0;
-  background-color: #d7d4ed;
+  background: #23272a;
   text-align: center;
   color: rgba(0, 0, 0, 0.7);
 }
