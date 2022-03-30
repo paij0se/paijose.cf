@@ -111,7 +111,6 @@ nav {
 
 .nav-link {
   font-size: 1.6rem;
-  text-transform: uppercase;
   color: rgba(0, 0, 0, 0.7);
 }
 
@@ -145,7 +144,6 @@ nav {
   width: 100%;
   max-width: 50rem;
   color: #fafafa;
-  text-transform: uppercase;
   transform: translateY(20%);
 }
 
@@ -159,9 +157,7 @@ nav {
   margin: 1rem 0;
 }
 
-.main-message p {
-  text-transform: lowercase;
-}
+
 
 .btn {
   background-color: #ce587b;
@@ -171,7 +167,6 @@ nav {
   margin-top: 2rem;
   margin-bottom: 2rem;
   padding: 1rem 2.5rem;
-  text-transform: uppercase;
   transition: background-color 650ms;
 }
 
@@ -187,7 +182,6 @@ nav {
 
 .title-heading {
   text-align: center;
-  text-transform: uppercase;
   margin-bottom: 10rem;
   color: rgba(0, 0, 0, 0.7);
 }
@@ -203,10 +197,6 @@ nav {
   color: white;
 }
 
-.title-heading p {
-  text-transform: lowercase;
-  color: white;
-}
 
 .activites-grid {
   display: grid;
@@ -278,7 +268,6 @@ nav {
 .activites-grid-item h1 {
   font-family: "Aldrich", sans-serif;
   font-size: 1.7rem;
-  text-transform: uppercase;
   margin: 2rem 0;
 }
 
